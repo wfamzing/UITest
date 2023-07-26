@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://127.0.0.1:5050/","buildOrder":55,"buildName":"UItest #55","buildUrl":"http://127.0.0.1:5050/job/UItest/55/","reportName":"AllureReport","reportUrl":"http://127.0.0.1:5050/job/UItest/55/allure"}]
